@@ -1,7 +1,9 @@
 {
-    "name": "base-f11",
     "version": "",
-    "title": "Base Game F11",
     "description": "",
-    "mods": ["base"]
+    "title": "Base Game F11",
+    "mods": [
+        "base"
+    ],
+    "name": "base-f11"
 }
