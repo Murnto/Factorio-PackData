@@ -1,6 +1,6 @@
 # Factorio-PackData
 
-Pack data for use with [FactorioData](https://github.com/Murnto/FactorioData) while the pack generator is cleaned up.
+Pack data for use with [FactorioData](https://github.com/Murnto/FactorioData) generated using [Factorio-PackGen](https://github.com/Murnto/Factorio-PackGen).
 
 ### Usage
 Copy or symlink to FactorioData/public/pack
